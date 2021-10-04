@@ -1,0 +1,526 @@
+.image_1 {
+   display: block;
+}
+.main_block {
+   margin-top: -950px;
+}
+.navigation {
+   margin-bottom: 675px;
+}
+.headind_1 {
+   text-align: center;
+   font-size: 130px;
+   font-weight: 500;
+   text-transform: uppercase;
+   letter-spacing: 20px;
+   color: white;
+   margin-bottom: 80px;
+}
+.list {
+   display: inline-block;
+   margin-bottom: 20px;
+   margin-left: 200px; 
+}
+.menu {
+   color: white;
+   text-align: center;
+   font-size: 30px;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   height: 45px;
+   width: 140px;
+   padding: 5px;
+   margin-left: 620px;
+   display: inline-block;
+}
+.about_us {
+   color: white;
+   text-align: center;
+   font-size: 30px;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   height: 45px;
+   width: 140px;
+   padding: 5px;
+   display: inline-block;
+}
+.delivery {
+   color: white;
+   text-align: center;
+   font-size: 30px;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   height: 45px;
+   width: 140px;
+   padding: 5px;
+   display: inline-block;
+}
+ .menu:hover {
+    background-color: rgb(5, 78, 48);
+ }
+ .menu_link:visited {
+    color: white;
+ }
+ .menu_link:active {
+   color: white;
+ }
+.about_us:hover {
+   background-color: rgb(5, 78, 48);
+}
+.aboutus_link:visited {
+   color: white;
+}
+.aboutus_link:active {
+   color: white;
+ }
+.delivery:hover {
+   background-color: rgb(5, 78, 48);
+}
+.delivery_link:visited {
+   color: white;
+}
+.delivery_link:active {
+   color: white;
+ }
+ .menu_block {
+    background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 160px;
+ }
+.fish {
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+}
+.meat {
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+}
+.sandvich {
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+}
+.burgers {
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 50px;
+}
+.fish_block {
+    background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+.fish_pic {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border1 {
+   border-radius: 75% 25% 77% 23% / 41% 56% 44% 59%;
+}
+.fish_soup_info {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_fish1 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.fish_pic_2 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border2 {
+   border-radius: 75% 25% 77% 23% / 41% 56% 44% 59%;
+}
+.fish_info2 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_fish2 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.fish_pic_3 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border3 {
+   border-radius: 75% 25% 77% 23% / 41% 56% 44% 59%;
+}
+.fish_info3 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_fish3 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.meat_block {
+    background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+.meat_pic {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border4 {
+   border-radius: 20% 80% 18% 82% / 56% 59% 41% 44%;
+}
+.meat_info {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_meat1 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.meat_pic2 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border5 {
+   border-radius: 20% 80% 18% 82% / 56% 59% 41% 44%;
+}
+.meat_info2 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_meat2 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.meat_pic3 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border6 {
+   border-radius: 20% 80% 18% 82% / 56% 59% 41% 44%;
+}
+.meat_info3 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_meat3 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.sandwich_block {
+   background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+.sandwich__pic1 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border7 {
+   border-radius: 12% 88% 10% 90% / 70% 39% 61% 30%;
+}
+.sandwich_info1 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_sandwich1 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.sandwich__pic2 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border8 {
+   border-radius: 12% 88% 10% 90% / 70% 39% 61% 30%;
+}
+.sandwich_info2 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_sandwich2 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.sandwich__pic3 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border9 {
+   border-radius: 12% 88% 10% 90% / 70% 39% 61% 30%;
+}
+.sandwich_info3 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_sandwich3 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.burgers_block {
+   background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+.burger__pic1 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border8 {
+   border-radius: 84% 16% 85% 15% / 51% 59% 41% 49%;
+}
+.burger_info1 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_burger1 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.burger__pic2 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border9 {
+   border-radius: 84% 16% 85% 15% / 51% 59% 41% 49%;
+}
+.burger_info2 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_burger2 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.burger__pic3 {
+   margin: 20px 0 160px 20px;
+   text-align: center;
+}
+.pic_border10 {
+   border-radius: 84% 16% 85% 15% / 51% 59% 41% 49%;
+}
+.burger_info3 {
+   font-size: 30px;
+   margin-left: 20px;
+   font-style: italic;
+}
+.buy_burger3 {
+   display: inline-block;
+   color: white;
+   background: rgb(13, 129, 81);
+   border-radius: 25px 25px 25px 25px;
+   font-size: 30px;
+   padding: 10px;
+   margin: 20px 0 0 50px;
+}
+.aboutus_block {
+    background-color: rgb(13, 129, 81);
+    height: 100px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+.firstpic {
+   display: inline-block;
+   margin: 40px 10px 20px 20px;
+}
+.secondpic {
+   display: inline-block;
+   margin: 40px 10px 20px 10px;
+}
+.thirdpic {
+   display: inline-block;
+   margin: 40px 10px 20px 10px;
+}
+.fourthpic {
+   display: inline-block;
+   margin: 40px 10px 20px 10px;
+}
+
+
+
+/*--------HOME WORK------*/
+.home_work {
+   background-color: black;
+   color: white;
+   text-align: center;
+   text-transform: uppercase;
+   padding: 40px;
+   font-size: 40px;
+}
+.visibility {
+   height: 50px;
+   visibility: hidden;
+}
+.hw_1 {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 20px;
+   display: block;
+}
+.block {
+   border: 2px solid rgba(87, 86, 86, 0);
+   background-color: rgba(0, 0, 0, 0.774);
+   border-radius: 50%;
+   box-shadow: 30px 0px 15px 10px rgb(255, 208, 0);
+   height: 200px;
+   width: 200px;
+   overflow: hidden;
+   margin: 0 0 20px 20px;
+   display: inline-block;
+}
+.moon {
+   border: 0px solid rgb(194, 194, 194);
+   background-color: rgb(168, 168, 168);
+   box-shadow: 15px 0px 5px 5px inset yellow;
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   display: inline-block;
+   margin: 0 0 20px 60px;
+   overflow: hidden;
+}
+.hw_2 {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 20px;
+   display: block;
+}
+.block_2 {
+   margin-left: 20px;
+}
+.inline {
+   display: inline-block;
+   margin-bottom: 20px;
+   background-color: tomato;
+   padding: 20px;
+   max-width: 300px;
+   opacity: 0.5;
+}
+.hw_3 {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 20px;
+}
+.span_block {
+   display: block;
+   border: 5px double black;
+   background-color: rgb(182, 244, 248);
+   padding: 30px;
+   margin: 0 20px 20px 20px;
+}
+.hw_4 {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 20px;
+}
+.border_block {
+   margin: 0 0 20px 20px;
+   height: 300px;
+   width: 300px;
+   background-color: rgb(222, 251, 163);
+   overflow: hidden;
+   border-top: 10px dotted red;
+   border-right: 10px solid goldenrod;
+   border-bottom: 10px dashed black;
+   border-left: 10px double purple;
+}
+.hw_5 {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 20px;
+}
+.link {
+   margin: 0 0 20px 20px;
+   display: inline-block;
+   font-size: 30px;
+   box-shadow: 10px 0px 15px 3px rgba(47, 0, 255, 0.616);
+}
